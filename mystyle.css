@@ -2,7 +2,7 @@
 html,
 body {
     height: 100% !important;
-    background: url('/images/brushed_@2X.png');
+    background: url('././images/brushed_@2X.png');
     font-family: 'cwTeXYen', sans-serif;
     font-size: 18px;
 }
